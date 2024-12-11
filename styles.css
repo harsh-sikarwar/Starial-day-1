@@ -57,6 +57,14 @@ background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+
 
 }
 
+.cstm-font{
+  font-family: "Kanit", sans-serif
+}
+
+.bg-books{
+  background-image: url();
+}
+
 @keyframes slide-in {
   from {
     translate: 10vw 5vw;
@@ -94,3 +102,9 @@ background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+
     background-position: 0% 50%;
   }
 }
+
+
+
+
+
+
