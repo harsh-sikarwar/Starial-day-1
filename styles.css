@@ -85,6 +85,13 @@ background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+
   align-self: center;
 }
 
+.olay{
+  transition: 1s ease;
+}
+
+.olay.hovered {
+   filter: brightness(50%);
+}
 
 @keyframes slide-in {
   from {
