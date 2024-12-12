@@ -62,8 +62,29 @@ background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+
 }
 
 .bg-books{
-  background-image: url();
+  background-image: url("./pexels-mccutcheon-1148399.jpg");
+  background-size: cover;
 }
+
+.bg-uniform{
+  background-image: url("./pexels-thirdman-8926544.jpg");
+  background-size: cover;
+}
+
+.bg-stationary{
+  background-image: url("./pexels-punttim-53874.jpg");
+  background-size: cover;
+}
+
+.bg-exams{
+  background-image: url("./pexels-cottonbro-4778667.jpg");
+  background-size: cover;
+}
+
+.offer-item-container{
+  align-self: center;
+}
+
 
 @keyframes slide-in {
   from {
