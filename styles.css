@@ -93,6 +93,16 @@ background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+
    filter: brightness(50%);
 }
 
+.circle{
+  overflow: hidden;
+  width: 80%;
+  background-image: url('./Untitled\ design.gif');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+
 @keyframes slide-in {
   from {
     translate: 10vw 5vw;
